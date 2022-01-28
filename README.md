@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/charlesj4" target="blank"><img src="https://img.shields.io/twitter/follow/charlesj4?logo=twitter&style=for-the-badge" alt="charlesj4" /></a> </p>
 
-- 🔭 I’m currently working on **@sisgestel**
+- 🔭 I’m currently working on **RC - CONSULTORIA E ASSESSORIA EM TELECOM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
